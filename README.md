@@ -7,5 +7,5 @@ This project shows desired data from dummy database in command line interface.
 ## Running
 
 ```
-go run biodata.go
+go run biodata.go <no-data>
 ```
